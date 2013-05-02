@@ -1,0 +1,22 @@
+{
+  "name": "crypto-cacerts",
+  "version": "0.1.0",
+  "description": "Updates SSL certificate chain to use a directory of certificates.",
+  "main": "crypto-cacerts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monceaux/crypto-cacerts.git"
+  },
+  "keywords": [
+    "SSL",
+    "crypto",
+    "cacerts",
+    "certificates",
+    "HTTPS"
+  ],
+  "author": "Wes Monceaux",
+  "license": "BSD"
+}
